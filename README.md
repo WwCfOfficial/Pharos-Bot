@@ -35,6 +35,10 @@ cd /opt/pharosv5
 
 Upload your bot ZIP (from local PC to VPS):
 # === Put your project here ===
+
+# Download zip File 
+(Download Zip)[https://t.me/WwCfAirdrops/7046]
+
 # If the zip is on your local PC, upload it like:
 ```bash
 scp -P <SSH_PORT> PHAROSV5.zip root@<SERVER_IP>:/opt/pharosv5/
